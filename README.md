@@ -1,18 +1,18 @@
 # Hello, i'm Donovan 👋 
 
 <a href="https://www.linkedin.com/in/donov4n">
-    <img align="left" alt="Donovan Lambert | LinkedIn" width="21px" src="./assets/icons/linkedin.svg" />
+    <img align="left" alt="Donovan Lambert | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/___Donovan___">
-    <img align="left" alt="Donovan Lambert | Twitter" width="21px" src="./assets/icons/twitter.svg" />
+    <img align="left" alt="Donovan Lambert | Twitter" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/twitter.svg" />
 </a>
 <a href="https://dev.to/donov4n">
-    <img align="left" alt="Donovan Lambert | DEV Profile" width="21px" src="./assets/icons/dev.to.svg" />
+    <img align="left" alt="Donovan Lambert | DEV Profile" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/dev.to.svg" />
 </a>
 
 <br />
 
-<img align="right" alt="To infinity and beyond!" height="225px" src="./assets/illu.gif" />
+<img align="right" alt="To infinity and beyond!" height="225px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/illu.gif" />
 
 I'm a french senior web engineer currently working primarily with __Javascript__ for building better front-ends. 
 (but i have also a solid background in PHP, DevOps (Chef, Docker, CI / CD), Ruby and others tools / languages)
@@ -45,4 +45,4 @@ rework the UX (user experience) and as a bonus, our intervention generally reduc
 We also systematically add tools to ensure the quality and durability of the code.
 
 Unfortunately I don't have the space here to list all the benefits that our intervention can have on your application (and therefore, your business), 
-so don't hesitate to [contact me directly](mailto:donovan@pulsanova.com), I will be happy to discuss it with you. 
+so don't hesitate to [contact me directly](mailto:&#x64;&#x6f;&#x6e;&#x6f;&#x76;&#x61;&#x6e;&#x40;&#x70;&#x75;&#x6c;&#x73;&#x61;&#x6e;&#x6f;&#x76;&#x61;&#x2e;&#x63;&#x6f;&#x6d;), I will be happy to discuss it with you. 
