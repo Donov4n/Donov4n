@@ -1,11 +1,33 @@
 # Hello, i'm Donovan 👋 
 
+<a href="https://www.linkedin.com/in/donov4n">
+    <img align="left" alt="Donovan Lambert | LinkedIn" width="21px" src="./assets/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/___Donovan___">
+    <img align="left" alt="Donovan Lambert | Twitter" width="21px" src="./assets/icons/twitter.svg" />
+</a>
+<a href="https://dev.to/donov4n">
+    <img align="left" alt="Donovan Lambert | DEV Profile" width="21px" src="./assets/icons/dev.to.svg" />
+</a>
+
+<br />
+
 <img align="right" alt="To infinity and beyond!" height="225px" src="./assets/illu.gif" />
 
 I'm a french senior web engineer currently working primarily with __Javascript__ for building better front-ends. 
 (but i have also a solid background in PHP, DevOps (Chef, Docker, CI / CD), Ruby and others tools / languages)
 
 My work is quite oriented around tooling, developer experience and great & responsive interfaces.
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Our work at Pulsanova
 
