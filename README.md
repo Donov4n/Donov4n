@@ -9,7 +9,7 @@
 <a href="https://dev.to/donov4n">
     <img align="left" alt="Donovan Lambert | DEV Profile" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/dev.to.svg" />
 </a>
-<a href="mailto:&#x64;&#x6f;&#x6e;&#x6f;&#x76;&#x61;&#x6e;&#x40;&#x70;&#x75;&#x6c;&#x73;&#x61;&#x6e;&#x6f;&#x76;&#x61;&#x2e;&#x63;&#x6f;&#x6d;">
+<a href="mailto:donovan.github@pulsanova.com">
     <img align="left" alt="Donovan Lambert | E-mail" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/mail.svg" />
 </a>
 
@@ -48,4 +48,4 @@ rework the UX (user experience) and as a bonus, our intervention generally reduc
 We also systematically add tools to ensure the quality and durability of the code.
 
 Unfortunately I don't have the space here to list all the benefits that our intervention can have on your application (and therefore, your business), 
-so don't hesitate to [contact me directly](mailto:&#x64;&#x6f;&#x6e;&#x6f;&#x76;&#x61;&#x6e;&#x40;&#x70;&#x75;&#x6c;&#x73;&#x61;&#x6e;&#x6f;&#x76;&#x61;&#x2e;&#x63;&#x6f;&#x6d;), I will be happy to discuss it with you. 
+so don't hesitate to [contact me directly](mailto:donovan.github@pulsanova.com), I will be happy to discuss it with you. 
