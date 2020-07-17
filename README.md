@@ -40,9 +40,9 @@ __Why migrate to new technologies when what we use already do the job? 🤔__
 The web is slow, especially with legacy technologies not adapted to today's internet and to the expectations of our visitors.  
 (and the last thing you want is to lose your visitors because your application is slow, whether it's felt or real)
 
-🚀 We propose to put in place __tools and best practices__ to give your frontend a feeling of instantaneousness / reactivity, 
+🚀 We propose to set up __tools and best practices__ to give your frontend a feeling of instantaneousness / reactivity, 
 rework the UX (user experience) and as a bonus, our intervention generally reduces the "technical debt", accumulated over the years.
-We also set up tools to ensure the quality and durability of the code.
+We also systematically add tools to ensure the quality and durability of the code.
 
 Unfortunately I don't have the space here to list all the benefits that our intervention can have on your application (and therefore, your business), 
 so don't hesitate to [contact me directly](mailto:donovan@pulsanova.com), I will be happy to discuss it with you. 
