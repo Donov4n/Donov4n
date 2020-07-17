@@ -9,6 +9,9 @@
 <a href="https://dev.to/donov4n">
     <img align="left" alt="Donovan Lambert | DEV Profile" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/dev.to.svg" />
 </a>
+<a href="mailto:&#x64;&#x6f;&#x6e;&#x6f;&#x76;&#x61;&#x6e;&#x40;&#x70;&#x75;&#x6c;&#x73;&#x61;&#x6e;&#x6f;&#x76;&#x61;&#x2e;&#x63;&#x6f;&#x6d;">
+    <img align="left" alt="Donovan Lambert | E-mail" width="21px" src="https://raw.githubusercontent.com/Donov4n/Donov4n/master/assets/icons/mail.svg" />
+</a>
 
 <br />
 
