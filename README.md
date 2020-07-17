@@ -1,6 +1,6 @@
 # Hello, i'm Donovan 👋 
 
-<img align="right" alt="To infinity and beyond!" height="300px" src="./assets/illu.gif" />
+<img align="right" alt="To infinity and beyond!" height="225px" src="./assets/illu.gif" />
 
 I'm a french senior web engineer currently working primarily with __Javascript__ for building better front-ends. 
 (but i have also a solid background in PHP, DevOps (Chef, Docker, CI / CD), Ruby and others tools / languages)
