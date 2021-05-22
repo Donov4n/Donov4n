@@ -36,7 +36,7 @@ My work is quite oriented around tooling, developer experience and great & respo
 
 I currently work for [Pulsanova](https://pulsanova.com), a web agency specialized in __migrating legacy apps__ to current 
 and proven technologies (e.g. jQuery / Twig => React / Vue SPA) with a particular concern to accompany the 
-teams in place on this new stack (with long-terme support / code-review / online workshop and more).
+teams in place on this new stack (with long-term support / code-review / online workshop and more).
 
 __Why migrate to new technologies when what we use already do the job? 🤔__
 
